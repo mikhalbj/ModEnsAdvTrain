@@ -13,7 +13,7 @@ Adversarial training is a state of the art technique used to enhance the robustn
 # <a name="team-members"></a>Team Members
 * Henry Shugart <hshugart@email.unc.edu>
 * Yeshavi Munagala <munagala@email.unc.edu>
-* Mikhail Ben-Joseph <mikbenjo@live.unc.edu>
+* Mikhal Ben-Joseph <mikbenjo@live.unc.edu>
 * Judy Chao <judychao@live.unc.edu>
 
 # <a name="code-descriptions"></a>Code Descriptions
